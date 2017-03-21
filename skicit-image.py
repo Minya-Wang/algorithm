@@ -6,6 +6,7 @@ import Image
 from skimage import data
 from skimage.feature import match_template
 
+
 image = Image.open("C:\\Users\\Xiaomin Wang\\Desktop\\SAP项目\\错误分类_王晓敏\\class2_明显错误标识_22\\！\\圆")
 # image = data.coins()
 # coin = image[170:220, 75:130]
